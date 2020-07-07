@@ -58,9 +58,9 @@
 	    <url>http://localhost:8086/nexus/content/repositories/releases/</url>
 	  </repository>
 	  <snapshotRepository>
-	    <id>Brojeswar-Repository</id>
+	    <id>Brojeswar-Repo</id>
 	    <!-- CHANGE HERE by your team nexus server -->
-	    <url>http://localhost:8086/nexus/content/repositories/Brojeswar-Repository/</url>
+	    <url>http://localhost:8086/nexus/content/repositories/releases/</url>
 	  </snapshotRepository>
 	</distributionManagement>
 
