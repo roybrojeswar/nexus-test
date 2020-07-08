@@ -6,7 +6,7 @@
 	<groupId>com.mycompany</groupId>
 	<artifactId>nexus-test</artifactId>
     <version>1.0.1-SNAPSHOT</version>
-     <packaging>mule-application</packaging>
+      <packaging>mule-application</packaging>
 
 	<name>nexus-test</name>
 
